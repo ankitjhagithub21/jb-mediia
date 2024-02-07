@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#home{
+   
+    background-image: url("https://cdn.meyatri.com/cdn/images/events/imagegroup/64477e8d49103_61d69685c9f57.jpeg");
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+#about{
+    background-color: #CCCCCC;
+}
